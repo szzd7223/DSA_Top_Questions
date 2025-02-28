@@ -15,3 +15,6 @@ A mountain array is defined as an array that increases to a peak and then decrea
 - Each element is processed at most twice (once expanding left and once expanding right).
 - Time Complexity: **O(n)** (linear scan with expansion)
 - Space Complexity: **O(1)** (constant space usage)
+
+## Question Link
+https://leetcode.com/problems/longest-mountain-in-array/description/
