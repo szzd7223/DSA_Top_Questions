@@ -5,7 +5,8 @@ This repository is dedicated to solving Data Structures and Algorithms (DSA) que
 
 ## Content
 I will be solving DSA questions from this video:
-[![Video Title](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![Watch on YouTube](https://img.youtube.com/vi/lvO88XxNAzs/0.jpg)](https://www.youtube.com/watch?v=lvO88XxNAzs&t=5043s)
+
 
 Each solution will be accompanied by an **intuition.md** file explaining the thought process behind the approach.
 
